@@ -1,4 +1,5 @@
 # Uwagi
+* Przetestuj stronę: http://kopecki.me.i234/school-notes/websites/bilety/order/new.php
 * konto administratora
     * dane do logowania
         - user: admin
