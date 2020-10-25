@@ -81,12 +81,12 @@
 
 <div class="navbar">
     <div class="dropdown">
-        <button class="dropbtn">Zamówienia
+        <button class="dropbtn">Rezerwacje
         <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content">
-        <a href="../order/new.php">Złóż zamówienie</a>
-        <a href="../order/display.php">Pokaż moje zamówienia</a>
+        <a href="../order/new.php">Zarezerwuj lot</a>
+        <a href="../order/display.php">Pokaż moje rezerwacje</a>
         </div>
     </div>
     <?php 

@@ -1,11 +1,11 @@
 <?php
 session_start();
-require_once( 'functions.php' );
+require_once( 'admin-functions.php' );
 
 //Sprawdzenie czy zalogowano
 if(isset($_SESSION['user']))
     header("Location: order/display.php");
-else if(isset($_POST['username']))
+else if($_SERVER['REQUEST_METHOD']=="POST")
 {
     if(empty($_POST['username'])||empty($_POST['password']))
     {
