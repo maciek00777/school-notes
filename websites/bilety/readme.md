@@ -1,5 +1,5 @@
 # Uwagi
-* Przetestuj stronę: http://kopecki.me.i234/school-notes/websites/bilety/
+* Przetestuj stronę: http://kopecki.i234.me/school-notes/websites/bilety/
 * konto administratora
     * dane do logowania
         - user: admin
