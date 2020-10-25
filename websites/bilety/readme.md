@@ -1,5 +1,5 @@
 # Uwagi
-* Przetestuj stronę: http://kopecki.me.i234/school-notes/websites/bilety/order/new.php
+* Przetestuj stronę: http://kopecki.me.i234/school-notes/websites/bilety/
 * konto administratora
     * dane do logowania
         - user: admin
@@ -9,3 +9,4 @@
 * baza danych w schoolworks.sql
 * zdaję sobie sprawę że w przypadku wypuszczenia strony wypadałoy ukryć hasła
 * dosyć mało jest zapisanych komentarzy, ale kod jest raczej intuicyjny tam gdzie ich nie ma
+* W przypadku gdy strona nie znajduje się w głównym katalogu, należy zmienić link w templates/header.php
