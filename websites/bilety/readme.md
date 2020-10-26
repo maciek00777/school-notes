@@ -3,7 +3,7 @@
 * konto administratora
     * dane do logowania
         - user: admin
-        - passwo
+        - password: admin
     * ma w menu dodatkowy panel
 * w db.php konfiguracja połączenia z bazą danych
 * baza danych w schoolworks.sql
